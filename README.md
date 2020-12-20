@@ -34,7 +34,7 @@ cd /tmp
 ```
 ### Use o curl para baixar o link que copiou do site do Tomcat:
 ```bash
-curl -O https://downloads.apache.org/tomcat/tomcat-9/v9.0.39/bin/apache-tomcat-9.0.39.tar.gz
+curl -O https://downloads.apache.org/tomcat/tomcat-9/v9.0.41/bin/apache-tomcat-9.0.41.tar.gz
 ```
 ### Crie o diretório tomcat:
 ```bash
