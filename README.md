@@ -42,7 +42,7 @@ sudo mkdir /opt/tomcat
 ```
 ### Em seguida, extraia o arquivo nele com esses comandos:
 ```bash
-sudo tar xzvf apache-tomcat-*tar.gz -C /opt/tomcat --strip-components=1
+sudo tar -vzxf apache-tomcat-*tar.gz -C /opt/tomcat --strip-components=1
 ```
 
 --------------------------------------------------------------------
