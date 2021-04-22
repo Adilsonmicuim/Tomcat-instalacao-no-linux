@@ -8,7 +8,7 @@ sudo apt update
 ```
 ### Então, instale o pacote Java Development Kit com a apt:
 ```bash
-sudo apt install openjdk-8-jre-headless
+sudo apt install openjdk-8-jre
 ```
 ### Em seguida vereficar a versão instalada.
 ```bash
